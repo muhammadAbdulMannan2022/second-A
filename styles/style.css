@@ -376,6 +376,7 @@ footer {
   }
   .container nav ul {
     gap: 15px;
+    flex-direction: column;
   }
   .about-hero-group h1 {
     font-size: 45px;
